@@ -15,5 +15,10 @@
 链接：https://pan.baidu.com/s/1fhu8FIFWBu4fbGyRQk9nKg 
 提取码：iyzr
 
-## 权重文件（详见weights文件夹）
-内部为部分手势训练完成的权重文件，可直接使用
+## 权重文件
+内部为部分手势训练完成的权重文件，可直接使用  
+链接：https://pan.baidu.com/s/1Jajf1Olxh2ykdvDofaKFUA 
+提取码：mv43
+
+## 问题及建议
+请反馈至邮箱fannc@qq.com
