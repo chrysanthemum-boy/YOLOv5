@@ -1,0 +1,6 @@
+train: /home/caiyifan/hdd_disk/caiyifan/yolov5-master1/yolov5-master/warn/train/images
+val: /home/caiyifan/hdd_disk/caiyifan/yolov5-master1/yolov5-master/warn/valid/images
+
+nc: 6
+# names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+names: ['Suspected abnormal gesture(4 or D)','Suspected abnormal gesture(OK)','Suspected abnormal gesture(1 or A)','Suspected abnormal gesture(3 or C)','Suspected abnormal gesture(YES or THUMBUP)','Suspected abnormal gesture(2 or B or YES)']

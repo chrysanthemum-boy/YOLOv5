@@ -1,0 +1,6 @@
+Suspected abnormal gesture(4 or D)
+Suspected abnormal gesture(OK)
+Suspected abnormal gesture(1 or A)
+Suspected abnormal gesture(3 or C)
+Suspected abnormal gesture(YES or THUMBUP)
+Suspected abnormal gesture(2 or B or YES)
