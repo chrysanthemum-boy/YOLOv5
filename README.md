@@ -8,16 +8,16 @@
 训练数据集和图片在百度网盘上，有需要可自行下载：
 
 #### 手势训练图片（可自行制作训练集）
-链接：https://pan.baidu.com/s/1ZiCOc5yqE0pbZu2QsNxhSA 
+链接：https://pan.baidu.com/s/1ZiCOc5yqE0pbZu2QsNxhSA  
 提取码：y9jj
 
 #### 手势训练集（自制）
-链接：https://pan.baidu.com/s/1fhu8FIFWBu4fbGyRQk9nKg 
+链接：https://pan.baidu.com/s/1fhu8FIFWBu4fbGyRQk9nKg  
 提取码：iyzr
 
 ## 权重文件
 内部为部分手势训练完成的权重文件，可直接使用  
-链接：https://pan.baidu.com/s/1Jajf1Olxh2ykdvDofaKFUA 
+链接：https://pan.baidu.com/s/1Jajf1Olxh2ykdvDofaKFUA  
 提取码：mv43
 
 ## 问题及建议
