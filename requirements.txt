@@ -1,7 +1,7 @@
 # pip install -r requirements.txt
 
 # base ----------------------------------------
-matplotlib>=3.10.9
+matplotlib>=3.11.0
 numpy>=2.4.4
 opencv-python>=4.13.0.92
 Pillow
