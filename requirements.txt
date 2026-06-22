@@ -6,7 +6,7 @@ numpy>=2.4.4
 opencv-python>=4.13.0.92
 Pillow
 PyYAML>=6.0.3
-scipy>=1.4.1
+scipy>=1.18.0
 torch>=2.11.0
 torchvision>=0.8.1
 tqdm>=4.41.0
