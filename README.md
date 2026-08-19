@@ -1,3 +1,5 @@
+
+
 [<img src="https://img.shields.io/badge/Language-English-blue.svg">](README_en.md) | [<img src="https://img.shields.io/badge/Language-简体中文-red.svg">](README.md)
 
 ## YOLOv5 
@@ -16,6 +18,7 @@
 - **手势训练集（自制）**
   - [下载链接](https://pan.baidu.com/s/1fhu8FIFWBu4fbGyRQk9nKg)
   - 提取码：`iyzr`
+  - 类别：`heartSingle`、`iloveyou`、`ok`、`yearh`
 
 ### 权重文件
 内部为部分手势训练完成的权重文件，可直接使用：
